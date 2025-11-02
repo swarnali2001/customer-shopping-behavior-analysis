@@ -127,7 +127,8 @@ customer-shopping-behavior/
 - Shipping preferences and purchasing trends  
 
 **File:** `dashboard/power bi.pbix`  
-**Preview:** `images/dashboard.png`  
+![Dashboard Preview](images/dashboard.png)
+`  
 
 ---
 
